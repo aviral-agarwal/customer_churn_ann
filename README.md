@@ -1,2 +1,2 @@
 # customer_churn_ann
-Customer Churn Prediction using ANN.
+Churn Modelling using Artificial Neural Networks . Predicting whether the customer will exit or not.
